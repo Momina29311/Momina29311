@@ -1,4 +1,7 @@
-# Momina 👋
+Computer Science student passionate about AI and Data Science.
 
-Computer Science student building projects in
-Machine Learning | Deep Learning | AI.
+Currently building projects in:
+• Machine Learning
+• Deep Learning
+• Generative AI
+• Data Science
