@@ -1,7 +1,11 @@
-Computer Science student passionate about AI and Data Science.
+## Hi, I'm Momina 👋
 
-Currently building projects in:
-• Machine Learning
-• Deep Learning
-• Generative AI
-• Data Science
+🎓 Computer Science Student
+
+🤖 AI & Data Science Enthusiast
+
+🐍 Python Developer
+
+🧠 Machine Learning • Deep Learning
+
+🚀 Building Real-World AI Projects
