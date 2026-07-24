@@ -11,6 +11,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Data%20Science%20%7C%20Machine%20Learning&fontSize=35&fontColor=ffffff" width="100%"/>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist+%F0%9F%93%8A;Building+ML+Projects+in+Public+%F0%9F%9A%80;100+Days+of+Data+Science+%E2%9A%A1;Turning+Data+into+Decisions+%F0%9F%A7%A0" alt="Typing SVG" />
+</p>
+
 ---
 
 ### 🎯 About Me
