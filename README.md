@@ -111,7 +111,6 @@ Enterprise ML system design, advanced deep learning, Docker/containerization for
 - 🧠 **[Customer Churn Prediction](https://github.com/Momina29311/Customer-churn-prediction-)** — Random Forest, XGBoost & Logistic Regression models with full EDA, feature engineering, and business-impact analysis
 - 📂 **[Data Science Internship Tasks](https://github.com/Momina29311/Data-Science-Internship-Tasks)** — collection of applied data science projects
 - 🐳 **AI Resume Screening System** — NLP-based resume-to-job matching, containerized with Docker for consistent, one-command deployment
-- 📊 **#100 Days of Data Science** — my ongoing public learning log (link your dedicated repo here once created)
 
 ---
 
