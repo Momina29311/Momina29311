@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2DD4BF&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Momina+Zaheer+%F0%9F%91%8B;Data+Science+%7C+Machine+Learning;Exploring+Generative+AI+%26+LLMs;Building+AI+Projects+in+Public" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2DD4BF&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Momina+Zaheer+%F0%9F%91%8B;Data+Science+%7C+Machine+Learning;Exploring+Generative+AI+%26+LLMs;100+Days+of+Data+Science+%E2%80%94+Complete+%E2%9C%85" alt="Typing SVG" />
 
 <br/>
 
@@ -23,15 +23,46 @@ I'm a **Computer Science student** passionate about **Data Science, Machine Lear
 
 I enjoy building practical AI applications that solve real-world problems—from predictive machine learning models to intelligent LLM-powered systems.
 
-After completing my first production-style AI project, **ResumeIQ**, I'm currently expanding my expertise in **Large Language Models (LLMs)** by building mini projects around Prompt Engineering, Structured Outputs, RAG, AI Agents, Function Calling, and LangGraph.
+I recently completed **#100DaysOfDataScience** — a 100-day public learning journey from data science foundations through machine learning, deep learning, NLP, and Generative AI/LLMs, culminating in production-style projects like **ResumeIQ** and **QuantumIQ**.
 
 I believe the best way to learn is by **building in public** and sharing every milestone.
 
 ---
 
+# 🏁 100 Days of Data Science — Complete
+
+<p align="left">
+<img src="https://img.shields.io/badge/Day-100%2F100-2DD4BF?style=flat-square"/>
+<img src="https://img.shields.io/badge/%23100DaysOfDataScience-Complete-2DD4BF?style=flat-square"/>
+</p>
+
+```
+Progress ████████████████████████████ 100%
+```
+
+It wasn't 100 perfect days — there were delays, bugs that refused to cooperate, experiments that didn't work, and days I fell behind or wanted to give up. Consistency wasn't never falling behind; it was continuing after I did.
+
+**Day 1:** *"I want to learn Data Science."*
+**Day 100:** *"I want to keep building."*
+
+---
+
 # 🚀 Current Focus
 
-### ✅ Recently Completed
+### ✅ Completed — Data Science → LLM Roadmap
+
+- ✅ Data Science Foundations (Python, Pandas, EDA, Statistics, Probability)
+- ✅ Machine Learning (Regression, Classification, Feature Engineering, Ensembles, XGBoost, LightGBM, CatBoost)
+- ✅ Deep Learning (ANN, CNN, RNN, LSTM, TensorFlow)
+- ✅ NLP (Tokenization, Embeddings, Semantic Similarity, Sentence Transformers)
+- ✅ LLM Fundamentals, Tokens & Embeddings
+- ✅ Prompt Engineering & Structured Outputs
+- ✅ LLM Evaluation
+- ✅ Retrieval-Augmented Generation (RAG)
+- ✅ Function Calling
+- ✅ AI Agents
+- ✅ LangGraph
+- ✅ Capstone LLM Project — **QuantumIQ**
 
 **ResumeIQ — AI Resume Screening System**
 
@@ -49,33 +80,15 @@ An end-to-end AI application featuring:
 - 🐳 Docker
 - ⚙ GitHub Actions CI/CD
 
+**QuantumIQ — AI + Quantum Computing Learning Assistant**
+
+Built with RAG, LangGraph, Qiskit, PennyLane, and Streamlit. Includes an honest, published quantum-vs-classical ML comparison (47% vs. 100%) — because the goal was to learn, not to make every experiment look impressive.
+
 ---
 
-### 🌱 Currently Learning
+### 🌱 What's Next
 
-Large Language Models (LLMs)
-
-Roadmap Progress:
-
-- ✅ LLM Fundamentals
-- ✅ Tokens & Embeddings
-- ✅ Prompt Engineering
-- ✅ Structured Outputs
-- 🔄 LLM Evaluation
-- ⏳ Retrieval-Augmented Generation (RAG)
-- ⏳ Function Calling
-- ⏳ AI Agents
-- ⏳ LangGraph
-- ⏳ Capstone LLM Project
-
-<p align="left">
-<img src="https://img.shields.io/badge/Day-90%2F100-2DD4BF?style=flat-square"/>
-<img src="https://img.shields.io/badge/%23100DaysOfDataScience-Active-blueviolet?style=flat-square"/>
-</p>
-
-```
-Progress ████████████████████████░░ 90%
-```
+Now that #100DaysOfDataScience is complete, I'm moving from structured challenge mode into deeper, self-directed AI agent and LLM application projects — more on that soon.
 
 ---
 
@@ -85,15 +98,17 @@ Progress ███████████████████████�
 <tr>
 <td>
 
-🚀 90/100 Days of consistent public learning
+🏁 100/100 Days of consistent public learning — complete
 
 🤖 Built ResumeIQ — AI-powered Resume Screening System
 
-📚 Currently exploring Large Language Models
+⚛️ Built QuantumIQ — AI + Quantum Computing Learning Assistant
 
-🛠 Building mini projects around Prompt Engineering & LLM Engineering
+📚 Went from Data Science foundations to full LLM/Agent engineering
 
-💻 Sharing every milestone on GitHub & LinkedIn
+🛠 Shipped mini projects around Prompt Engineering & LLM Engineering
+
+💻 Shared every milestone on GitHub & LinkedIn
 
 </td>
 </tr>
@@ -126,6 +141,9 @@ Progress ███████████████████████�
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square)
 ![Embeddings](https://img.shields.io/badge/Embeddings-2DD4BF?style=flat-square)
 ![Semantic Search](https://img.shields.io/badge/Semantic%20Search-4F46E5?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-2DD4BF?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C1C1C?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-6366F1?style=flat-square)
 
 ---
 
@@ -151,20 +169,23 @@ Progress ███████████████████████�
 ### 🤖 ResumeIQ
 AI-powered Resume Screening System with ATS Scoring, Semantic Matching, Explainable AI, Recruiter Dashboard, Docker, and CI/CD.
 
+### ⚛️ QuantumIQ
+AI + Quantum Computing Learning Assistant built with RAG, LangGraph, Qiskit, and PennyLane — the capstone project of #100DaysOfDataScience.
+
 ### 📈 Customer Churn Prediction
 End-to-end machine learning project for customer churn prediction using classification models.
 
 ### 📚 Data Science Internship Tasks
 Collection of machine learning, data analysis, and visualization projects.
 
-### 🚀 LLM Mini Projects *(In Progress)*
+### 🚀 LLM Mini Projects
 
 - Token Counter
 - Embedding Similarity
 - Prompt Playground
 - Structured Outputs
 - LLM Evaluation
-- RAG (Coming Soon)
+- RAG
 
 ---
 
@@ -195,15 +216,17 @@ Collection of machine learning, data analysis, and visualization projects.
 
 ✅ ResumeIQ (End-to-End AI Project)
 
-🔄 Large Language Models (LLMs)
+✅ Large Language Models (LLMs)
 
-⏳ Retrieval-Augmented Generation (RAG)
+✅ Retrieval-Augmented Generation (RAG)
 
-⏳ AI Agents
+✅ AI Agents
 
-⏳ LangGraph
+✅ LangGraph
 
-⏳ Capstone LLM Application
+✅ Capstone LLM Application — QuantumIQ
+
+🔄 Next: deeper AI agent & LLM application projects
 
 ---
 
